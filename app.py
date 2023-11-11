@@ -70,7 +70,7 @@ ultrasound_model = load_sklearn_models("ultrasound_new_semi_diffused_featurizor_
 # title
 st.title("Breast Cancer Diagnosis")
 # image
-st.image(IMG_ADDRESS, caption = "Breast Cancer Diagnosis")
+#st.image(IMG_ADDRESS, caption = "Breast Cancer Diagnosis")
 
 # input image
 st.subheader("Please Upload a Biopsy Image")
